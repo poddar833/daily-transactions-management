@@ -7,7 +7,7 @@ Includes:
 
 ## Technologies used:
 
-### Frameworks used: 
+### Frameworks: 
   Spring Boot, ReactJs
 ### Languages: 
   Java8, Javascript
