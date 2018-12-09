@@ -8,7 +8,7 @@ Includes:
 ## Frameworks used: 
   Spring Boot, ReactJs
 ## Languages: 
-  JAVA, Javascript
+  Java8, Javascript
 ## Cloud: 
   Shell scripting using Cloud Formation, AWS 
 ## AWS Services: 
